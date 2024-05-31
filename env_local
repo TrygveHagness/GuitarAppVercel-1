@@ -1,0 +1,8 @@
+ADMIN_USERNAME = root
+ADMIN_PASSWORD = P@ssw0rd
+DATABASE_NAME = guitardb
+DIALECT =mysql
+DIALECTMODEL =mysql2
+PORT = 3000
+HOST = localhost
+TOKEN_SECRET = asdf
